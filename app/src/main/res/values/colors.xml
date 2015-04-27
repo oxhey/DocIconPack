@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#1976d2</color>
+    <color name="primary_dark">#1565c0</color>
+    <color name="primary_pressed">#039be5</color>
+    <color name="accent">#e91e63</color>
+    <color name="ripple_accent">#80e91e63</color>
+    <color name="accent_pressed">#ec407a</color>
+    <color name="accent_secondary">@color/accent</color>
+    <color name="secondary">#009688</color>
+    <color name="secondary_pressed">#26a69a</color>
+    <color name="navbar">#424242</color>
+    <!-- Ctrl + H and search for color/cardsbg if you want to customize card colors individually-->
+    <color name="cardsbg">#ffffff</color>
+    <!-- Color for Backgrounds -->
+    <color name="light_bg">#fafafa</color>
+    <!-- Color for texts in Dialogs -->
+    <color name="dialogcontent">#6d6d6d</color>
+    <!-- Color for some ripples -->
+    <color name="semitransparent_white">#80ffffff</color>
+    <!-- Color for texts -->
+    <color name="dark_grey">#4d4d4d</color>
+
+
+    <!-- Don't edit -->
+    <color name="red">#f44336</color>
+    <color name="green">#4caf50</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="window_bg">@color/primary_dark</color>
+    <color name="divider_grey">#d4d4d4</color>
+
+</resources>
