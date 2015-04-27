@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>jahirfiquitiva.paperboard.sample</packageName>
+    <packageName>com.stefan.dociconpack</packageName>
     <versionName>1.0</versionName>
     <versionCode>1</versionCode>
-    <themeName>PaperBoard Sample</themeName>
+    <themeName>Doc Icon Pack</themeName>
     <!-- Default Component Color -->
     <themePointColor>#2196f3</themePointColor>
     <themePreview img1="preview1" />

@@ -195,6 +195,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardOne"
                 android:layout_width="fill_parent"
+				android:visibility="gone"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/cardView"
                 android:layout_margin="@dimen/cards_margin"
@@ -280,6 +281,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardTwo"
                 android:layout_width="fill_parent"
+				android:visibility="gone"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/cardOne"
                 android:layout_margin="@dimen/cards_margin"
@@ -366,6 +368,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardThree"
                 android:layout_width="fill_parent"
+				android:visibility="gone"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/cardTwo"
                 android:layout_margin="@dimen/cards_margin"

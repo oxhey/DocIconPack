@@ -7,7 +7,10 @@
 
     <!-- LATEST ICONS -->
     <!-- All of your Latest icons listed here -->
-    <string-array name="latest"></string-array>
+    <string-array name="latest">
+        <item>playbooks</item>
+
+    </string-array>
 
     <!-- SYSTEM ICONS -->
     <!-- System icons listed here -->

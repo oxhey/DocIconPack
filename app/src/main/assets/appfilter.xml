@@ -39,7 +39,7 @@
         drawable="andy" />
     <item
         component=":CALCULATOR"
-        drawable="andy" />
+        drawable="playbooks" />
     <item
         component=":CALENDAR"
         drawable="andy" />
