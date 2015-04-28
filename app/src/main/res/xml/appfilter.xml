@@ -62,7 +62,7 @@
         component=":PHONE"
         drawable="phone" />
 
-    <!-- Contacts App -->
+    <!-- Contacts App dff -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
         drawable="contacts" />
