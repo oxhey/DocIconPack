@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Not themed icons background / Correct one to edit-->
+    <!-- Template / Correct one to edit-->
     <!--
-    <iconback 
-    img1="iconback1"
-    img2="iconback2"
-	img3="iconback3"
-    />
-    -->
-
-    <!-- Overlay for unthemed icons -->
-    <!--
-    <iconupon 
-    img1="iconupon1"
-    />
-	-->
-
-    <!-- Cutter for unthemed icons -->
-    <!--
-    <iconmask
-    img1="iconmask1"
-    />
+ 
+		 <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="111" /> 
  	-->
 
     <!-- This scales the images to fit into your iconback -->
@@ -33,7 +18,7 @@
         drawable="all_apps_button_icon" />
     <item
         component=":BROWSER"
-        drawable="chrome" />
+        drawable="google_chrome" />
     <item
         component=":SMS"
         drawable="messages" />
@@ -61,8 +46,9 @@
     <item
         component=":PHONE"
         drawable="phone" />
+	<!-- NOVA LAUNCHER STUFF END -->
 
-    <!-- Contacts App dff -->
+    <!-- Contacts App -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
         drawable="contacts" />
@@ -106,79 +92,215 @@
         drawable="settings" />
 
     <!-- Other Apps -->
-    <item
+		<item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
         drawable="airdroid" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="all_four" />
-    <calendar
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="amazon_app_store" />
-
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="amazon_shopping" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="antutu" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="audio_fX" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="battery_widget_reborn" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="bbc_iplayer" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="bing" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="bt_sport" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="bt_wifi" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="cabinet" />
-
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="calculator" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="callendar" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="camera" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="camera_alt_one" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="camera_alt_two" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="chrome" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="chrome_beta" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="city_mapper" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="clock" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="contacts" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="demand_five" />
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="drive" />
-
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="all_4" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="amazon_app_store" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="amazon_shopping" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="antutu" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="audio_fx" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="battery_widget_reborn" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="bbc_iplayer" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="bing" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="bt_sport" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="bt_wifi" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="cabinet" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="calculator" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="callendar" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="camera" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="camera_alt_one" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="camera_alt_two" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="city_mapper" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="clock" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="contacts" />
+		
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="demand_5" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="drive" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="dsp_manager" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="email" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="es_file_explorer" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="evernote" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="falcon_pro_3" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="firefox" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="firefox_beta" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="flud" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="gallery" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="gmail" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_chrome" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_chrome_beta" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_docs" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_hangouts" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_inbox" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_maps" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_maps_alt_one" />
+		
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_photos" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_play_games" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_play_movies" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_play_music" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_plus" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_rewards" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_settings" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_sheets" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_slides" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_snapseed" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="harry_potter_quiz" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="harry_potter_wikia" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="imdb" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="instagram" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="itv_player" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="messages" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="phone" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_play_books" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="playstore" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="plex" />
+		
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="pocketcasts" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="pricespy" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="screencast" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="servicely" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="settings" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="shazam" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="shuttle" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="skype" />
+		<item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="super_su" />
+		
 </resources>
