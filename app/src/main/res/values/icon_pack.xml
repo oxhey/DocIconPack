@@ -140,6 +140,15 @@
 		<item>shuttle</item>
 		<item>skype</item>
 		<item>super_su</item>
+        <item>screener</item>
+        <item>tetris</item>
+        <item>google_translate</item>
+        <item>vine</item>
+        <item>vine_alt_1</item>
+        <item>vlc</item>
+        <item>whatsapp</item>
+        <item>youtube</item>
+        <item>cyanogen_gallery</item>
     </string-array>
 
     <string-array name="drawer">

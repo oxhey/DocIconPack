@@ -158,7 +158,16 @@
         drawable="demand_5" />
 		<item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
-        drawable="drive" />
+        drawable="google_drive" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_drive_alt_1" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_drive_alt_2" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_drive_alt_3" />
 		<item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
         drawable="dsp_manager" />
@@ -302,5 +311,32 @@
 		<item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
         drawable="super_su" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="screener" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="tetris" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="google_translate" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="vine" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="vine_alt_1" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="vlc" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="whatsapp" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="youtube" />
+        <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="cyanogen_gallery" />
 		
 </resources>
