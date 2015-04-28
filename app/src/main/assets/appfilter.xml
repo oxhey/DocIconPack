@@ -33,66 +33,66 @@
         drawable="all_apps_button_icon" />
     <item
         component=":BROWSER"
-        drawable="andy" />
+        drawable="_chrome" />
     <item
         component=":SMS"
-        drawable="andy" />
+        drawable="_messages" />
     <item
         component=":CALCULATOR"
-        drawable="playbooks" />
+        drawable="_calculator" />
     <item
         component=":CALENDAR"
-        drawable="andy" />
+        drawable="_callendar" />
     <item
         component=":CAMERA"
-        drawable="andy" />
+        drawable="_camera" />
     <item
         component=":CLOCK"
-        drawable="andy" />
+        drawable="_clock" />
     <item
         component=":CONTACTS"
-        drawable="andy" />
+        drawable="_contacts" />
     <item
         component=":EMAIL"
-        drawable="andy" />
+        drawable="_email" />
     <item
         component=":GALLERY"
-        drawable="andy" />
+        drawable="_gallery" />
     <item
         component=":PHONE"
-        drawable="andy" />
+        drawable="_phone" />
 
 
     <!-- Contacts App -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="andy" />
+        drawable="_contacts" />
 
 
     <!-- Dialer App -->
     <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="andy" />
+        drawable="_phone" />
 
     <!-- E-mail App -->
     <item
         component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
-        drawable="andy" />
+        drawable="_email" />
 
     <!-- Gallery App -->
     <item
         component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}"
-        drawable="andy" />
+        drawable="_gallery" />
 
     <!-- Messaging App -->
     <item
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="andy" />
+        drawable="_messages" />
 
     <!-- Music App -->
     <item
         component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}"
-        drawable="andy" />
+        drawable="_google_play_music" />
 
 
     <!-- Radio App -->
@@ -104,17 +104,82 @@
     <!-- Settings App -->
     <item
         component="ComponentInfo{com.android.development/com.android.development.Development}"
-        drawable="andy" />
+        drawable="_settings" />
 
     <!-- Other Apps -->
     <item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
-        drawable="fimbo" />
+        drawable="_airdroid" />
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="andy" />
+        prefix="_all_four" />
     <calendar
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="andy_" />
+        prefix="_amazon_app_store.png" />
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_amazon_shopping" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_antutu" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_audio_fX" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_battery_widget_reborn" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_bbc_iplayer" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_bing" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_bt_sport" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_bt_wifi" />
+    <item
+    component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+    prefix="_cabinet" />
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_calculator" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_callendar" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_camera" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_camera_alt_one" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_camera_alt_two" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_chrome" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_chrome_beta" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_city_mapper" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_clock" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_contacts" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_demand_five" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="_drive" />
 
 </resources>

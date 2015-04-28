@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Not themed icons background -->
+    <!-- Not themed icons background / Correct one to edit-->
     <!--
     <iconback 
     img1="iconback1"
@@ -33,88 +33,152 @@
         drawable="all_apps_button_icon" />
     <item
         component=":BROWSER"
-        drawable="andy" />
+        drawable="chrome" />
     <item
         component=":SMS"
-        drawable="andy" />
+        drawable="messages" />
     <item
         component=":CALCULATOR"
-        drawable="andy" />
+        drawable="calculator" />
     <item
         component=":CALENDAR"
-        drawable="andy" />
+        drawable="callendar" />
     <item
         component=":CAMERA"
-        drawable="andy" />
+        drawable="camera" />
     <item
         component=":CLOCK"
-        drawable="andy" />
+        drawable="clock" />
     <item
         component=":CONTACTS"
-        drawable="andy" />
+        drawable="contacts" />
     <item
         component=":EMAIL"
-        drawable="andy" />
+        drawable="email" />
     <item
         component=":GALLERY"
-        drawable="andy" />
+        drawable="gallery" />
     <item
         component=":PHONE"
-        drawable="andy" />
-
+        drawable="phone" />
 
     <!-- Contacts App -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="andy" />
+        drawable="contacts" />
 
 
     <!-- Dialer App -->
     <item
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="andy" />
+        drawable="phone" />
 
     <!-- E-mail App -->
     <item
         component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
-        drawable="andy" />
+        drawable="email" />
 
     <!-- Gallery App -->
     <item
         component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}"
-        drawable="andy" />
+        drawable="gallery" />
 
     <!-- Messaging App -->
     <item
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="andy" />
+        drawable="messages" />
 
     <!-- Music App -->
     <item
         component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}"
-        drawable="andy" />
+        drawable="google_play_music" />
 
 
     <!-- Radio App -->
     <item
         component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}"
-        drawable="andy" />
+        drawable="fm_radio" />
 
 
     <!-- Settings App -->
     <item
         component="ComponentInfo{com.android.development/com.android.development.Development}"
-        drawable="andy" />
+        drawable="settings" />
 
     <!-- Other Apps -->
     <item
         component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
-        drawable="fimbo" />
+        drawable="airdroid" />
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="andy" />
+        prefix="all_four" />
     <calendar
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        prefix="andy_" />
+        prefix="amazon_app_store" />
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="amazon_shopping" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="antutu" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="audio_fX" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="battery_widget_reborn" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="bbc_iplayer" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="bing" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="bt_sport" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="bt_wifi" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="cabinet" />
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="calculator" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="callendar" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="camera" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="camera_alt_one" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="camera_alt_two" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="chrome" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="chrome_beta" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="city_mapper" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="clock" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="contacts" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="demand_five" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="drive" />
 
 </resources>
