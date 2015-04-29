@@ -92,7 +92,6 @@
 		<item>clock</item>
 		<item>contacts</item>
 		<item>demand_5</item>
-		<item>drive</item>
 		<item>dsp_manager</item>
 		<item>email</item>
 		<item>es_file_explorer</item>
@@ -106,6 +105,10 @@
 		<item>google</item>
 		<item>google_chrome</item>
 		<item>google_chrome_beta</item>
+        <item>google_drive</item>
+        <item>google_drive_alt_1</item>
+        <item>google_drive_alt_2</item>
+        <item>google_drive_alt_3</item>
 		<item>google_docs</item>
 		<item>google_hangouts</item>
 		<item>google_inbox</item>
@@ -149,6 +152,17 @@
         <item>whatsapp</item>
         <item>youtube</item>
         <item>cyanogen_gallery</item>
+
+        <item>anydo</item>
+        <item>spotify</item>
+        <item>twitter</item>
+        <item>tumblr</item>
+        <item>tesco_mobile</item>
+        <item>sound_recorder</item>
+        <item>pebble</item>
+        <item>nationwide</item>
+        <item>facebook</item>
+        <item>facebook_messenger</item>
     </string-array>
 
     <string-array name="drawer">
