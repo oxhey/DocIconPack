@@ -165,6 +165,21 @@
         <item>facebook</item>
         <item>facebook_messenger</item>
         <item>google_translate</item>
+
+        <item>crossy_road</item>
+        <item>voice_search</item>
+        <item>google_cardboard</item>
+        <item>adobe_connect</item>
+        <item>downloads</item>
+        <item>file_manager</item>
+        <item>gps_status</item>
+        <item>google_keep</item>
+        <item>minecraft</item>
+
+        <item>nfc_tools</item>
+        <item>cm_themes</item>
+        <item>spout</item>
+
     </string-array>
 
     <string-array name="drawer">
