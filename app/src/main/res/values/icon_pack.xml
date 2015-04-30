@@ -38,7 +38,6 @@
     <!-- GOOGLE APPS ICONS -->
     <!-- Google Apps icons are listed here -->
     <string-array name="google">
-       	<item>drive</item>
 		<item>gmail</item>
 		<item>google</item>
 		<item>google_chrome</item>
@@ -80,7 +79,8 @@
 		<item>battery_widget_reborn</item>
 		<item>bbc_iplayer</item>
 		<item>bing</item>
-		<item>bt_sport</item>
+        <item>boxer_email</item>
+       	<item>bt_sport</item>
 		<item>bt_wifi</item>
 		<item>cabinet</item>
 		<item>calculator</item>
@@ -154,6 +154,7 @@
         <item>cyanogen_gallery</item>
 
         <item>anydo</item>
+        <item>anydo_alt_1</item>
         <item>spotify</item>
         <item>twitter</item>
         <item>tumblr</item>
@@ -163,6 +164,7 @@
         <item>nationwide</item>
         <item>facebook</item>
         <item>facebook_messenger</item>
+        <item>google_translate</item>
     </string-array>
 
     <string-array name="drawer">

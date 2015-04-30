@@ -55,7 +55,7 @@
         <!-- MainActivity -->
         <activity
             android:name=".HomeActivity"
-            android:label="DockIconPack"
+            android:label="Dock Icon Pack"
             android:noHistory="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

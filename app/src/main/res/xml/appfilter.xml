@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- This is in the Res folder. After its edited it needs to be coppied into the assets folder. -->
+<!-- This is in the Res folder. After its edited it needs to be copied into the assets folder. -->
 
 <resources>
 
@@ -96,14 +96,54 @@
 		<item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="callendar" />
-		<item
+
+    <!-- Camera -->
+    <item
         component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}"
         drawable="camera" />
-
-    <!-- android cam -->
-        <item
+    <item
+        component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}"
+        drawable="camera" />
+    <item
         component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
         drawable="camera" />
+    <item
+        component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraActivity}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.android.asuscamera/com.android.asuscamera.Camera}"
+        drawable="camera" />
+    <item
+        component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}"
+        drawable="camera" />
+
 
 		<item
         component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}"
@@ -116,7 +156,7 @@
         drawable="contacts" />
 		
 		<item
-        component="ComponentInfo{}"
+        component="ComponentInfo{com.mobileiq.demand5/com.mobileiq.demand5.activity.SplashActivity}"
         drawable="demand_5" />
 		<item
         component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
@@ -130,7 +170,7 @@
         component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
         drawable="email" />
 
-    <item
+        <item
         component="ComponentInfo{com.boxer.email/com.boxer.email.activity.Welcome}"
         drawable="boxer_email" />
 		<item
@@ -153,8 +193,9 @@
         drawable="flud" />
 
     <item
-        component="ComponentInfo{}"
+        component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}"
         drawable="flud" />
+
 		<item
     component="ComponentInfo{com.cyngn.gallerynext/com.cyngn.gallerynext.app.GalleryActivity}"
     drawable="cyanogen_gallery" />
@@ -175,7 +216,7 @@
         component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}"
         drawable="google_chrome_beta" />
 		<item
-        component="ComponentInfo{ com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
         drawable="google_docs" />
 		<item
         component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}"
@@ -190,10 +231,10 @@
     <!-- Google Photos -->
     <item
         component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}"
-        drawable="photos" />
+        drawable="google_photos" />
     <item
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
-        drawable="photos" />
+        drawable="google_photos" />
 		<item
         component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
         drawable="google_play_games" />
@@ -245,8 +286,8 @@
 		<item
         component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}"
         drawable="google_play_books" />
-		<item
-        component="ComponentInfo{ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
         drawable="playstore" />
     <!-- Plex -->
     <item
@@ -331,7 +372,7 @@
         drawable="super_su" />
 
         <item
-        component="ComponentInfo{}"
+        component="ComponentInfo{de.toastcode.screener/de.toastcode.screener.MainActivity}"
         drawable="screener" />
         <item
         component="ComponentInfo{com.ea.game.tetris2011_row/com.ea.game.tetris2011_row.Main}"
